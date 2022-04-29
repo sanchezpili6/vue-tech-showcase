@@ -8,7 +8,7 @@ import { createVuetify } from 'vuetify'
 const myCustomLightTheme = {
     dark: false,
     colors: {
-        background: '#FCDDBC',
+        background: '#FFF',
         primary: '#758E4F',
         accent: '#C73E1D',
         text: '#5C5D67',
