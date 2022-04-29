@@ -1,0 +1,5 @@
+**/.idea
+*./backend/.idea
+*./frontend/.idea
+
+**/__pycache__/

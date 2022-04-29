@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+
+  ms:
+    container_name: ms
+    ports:
+      - 3001:3001
+    build:
+      context: ./backend
+    restart: always
+    volumes:
+      - ./backend:/app
